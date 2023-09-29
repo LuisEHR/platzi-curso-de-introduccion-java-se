@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Introduccion_a_JavaSE_Platzi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Introduccion_a_JavaSE_Platzi_jar</output-path>
+    <root id="archive" name="Introduccion_a_JavaSE_Platzi.jar">
+      <element id="module-output" name="Introduccion_a_JavaSE_Platzi" />
+    </root>
+  </artifact>
+</component>
